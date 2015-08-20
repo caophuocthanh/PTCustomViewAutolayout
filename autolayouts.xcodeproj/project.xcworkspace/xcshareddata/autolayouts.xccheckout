@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A23CB697-8AC5-4DB9-AB2A-130DA049C9C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>autolayouts</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>21CC63BCBC12B7C0F5132DF212A7E26565D5316D</key>
+		<string>https://github.com/otatime/CustomViewAutolayoutByCode</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>autolayouts.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>21CC63BCBC12B7C0F5132DF212A7E26565D5316D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/otatime/CustomViewAutolayoutByCode</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>21CC63BCBC12B7C0F5132DF212A7E26565D5316D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>21CC63BCBC12B7C0F5132DF212A7E26565D5316D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomViewAutolayoutByCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
